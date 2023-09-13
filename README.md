@@ -10,3 +10,8 @@ Pueden hacer lo que quieran...
 ### Actualizado desde github
 
   Mensjae desde gitb¡hub
+
+
+### Actualizado desde local
+
+  Mensjae desde lcoal
