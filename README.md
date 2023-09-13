@@ -12,6 +12,6 @@ Pueden hacer lo que quieran...
   Mensjae desde gitb¡hub
 
 
-### Actualizado desde local
+### Actualizado desde local y no github
 
   Mensjae desde lcoal
